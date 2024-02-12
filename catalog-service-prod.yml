@@ -1,4 +1,4 @@
 polar:
-  greeting: "Welcome to the prod configs from the config server"
+  greeting: "Welcome to the prod changed configs from the config server"
 
 ## Welcome to the production catalog from the config server
